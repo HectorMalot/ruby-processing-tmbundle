@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>triangle ${1:x1}, ${2:y1}, ${3:x2}, ${4:y2}, ${5:x3}, ${6:y3}</string>
+	<key>name</key>
+	<string>Triangle</string>
+	<key>tabTrigger</key>
+	<string>triangle</string>
+	<key>uuid</key>
+	<string>9B96E2ED-CD37-490E-A5AE-941A357B6D14</string>
+</dict>
+</plist>
